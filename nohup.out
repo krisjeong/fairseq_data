@@ -1,0 +1,4 @@
+usage: wav2vec_manifest.py [-h] [--valid-percent D] [--dest DIR] [--ext EXT]
+                           [--seed N] [--path-must-contain FRAG]
+                           DIR
+wav2vec_manifest.py: error: unrecognized arguments: $
